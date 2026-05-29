@@ -1,0 +1,37 @@
+{
+  "libros": [
+    {
+      "id": "2",
+      "titulo": "1984",
+      "isbn": "978-8499890944",
+      "genero": "Distopía",
+      "precio": 12.5,
+      "disponibilidad": "En stock"
+    },
+    {
+      "id": "3",
+      "titulo": "Cien años de soledad",
+      "isbn": "978-8488546302",
+      "genero": "Realismo Mágico",
+      "precio": 18.75,
+      "disponibilidad": "Agotado"
+    },
+    {
+      "id": "4",
+      "titulo": "El Principito",
+      "isbn": "978-8478884483",
+      "genero": "Infantil",
+      "precio": 10,
+      "disponibilidad": "En stock"
+    },
+    {
+      "id": "5",
+      "titulo": "Orgullo y Prejuicio",
+      "isbn": "978-8491815891",
+      "genero": "Romance",
+      "precio": 14.95,
+      "disponibilidad": "En stock"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
